@@ -1,0 +1,11 @@
+# Dependency directories
+node_modules/
+
+# Build directories
+dist/
+
+# Generated source files
+*.guard.ts
+
+# Error logs
+yarn-error.log
