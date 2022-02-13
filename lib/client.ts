@@ -37,9 +37,7 @@ export class Client {
   constructor(public readonly options: ClientOptions) {
     this.httpClient = axios.create({
       headers: {
-        common: {
-          Accept: 'application/json',
-        },
+        Accept: 'application/json',
       },
     });
   }
