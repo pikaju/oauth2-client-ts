@@ -2,6 +2,16 @@
   "name": "oauth2-client-ts",
   "version": "0.1.0",
   "license": "MIT",
+  "author": "Julien Scholz <julienscholzo@hotmail.de>",
+  "keywords": [
+    "oauth 2.0",
+    "token introspection",
+    "introspect",
+    "bearer token usage",
+    "bearer",
+    "standard",
+    "extensible"
+  ],
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "files": [
