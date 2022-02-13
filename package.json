@@ -1,8 +1,9 @@
 {
   "name": "oauth2-client-ts",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "author": "Julien Scholz <julienscholzo@hotmail.de>",
+  "description": "An exstensible OAuth 2.0, standard compliant client library for Node.js and the Web.",
   "keywords": [
     "oauth 2.0",
     "token introspection",
