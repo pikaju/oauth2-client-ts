@@ -1,6 +1,6 @@
 # TypeScript OAuth 2.0 Client
 
-An exstensible [OAuth 2.0](https://datatracker.ietf.org/doc/html/rfc6749), standard compliant client library for Node.js and the Web.
+An extensible [OAuth 2.0](https://datatracker.ietf.org/doc/html/rfc6749), standard compliant client library for Node.js and the Web.
 Also supports the [Bearer Token Usage](https://datatracker.ietf.org/doc/html/rfc6750) and [Token Introspection](https://datatracker.ietf.org/doc/html/rfc7662) standards.
 
 ## Basic usage
